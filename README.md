@@ -1,9 +1,9 @@
 # pytroch_transfer_learning
   Pytorch Transfer Learning Tutorial (ResNet18)
-
+  
 # Bugs fixed in TRANSFER-LEARNING TUTORIAL on Pytorch Website.
   https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
-  From the same link above download the dataset.
+  Tutorial link & download the dataset from.
   <br />
   I found out that, I was not able to compile pytorch transfer learning tutorial code on my machine. There were many bugs in the code or I guess, somethings have become deprecated.
   <br />
