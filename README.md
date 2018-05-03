@@ -5,6 +5,7 @@
   https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
   Tutorial link & download the dataset from.
   <br />
+  <br/>
   I found out that, I was not able to compile pytorch transfer learning tutorial code on my machine. There were many bugs in the code or I guess, somethings have become deprecated.
   <br />
 # So, I have fixed it and it's now running perfectly on my Machine
