@@ -4,10 +4,9 @@
 # Bugs fixed in TRANSFER-LEARNING TUTORIAL on Pytorch Website.
   https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
   From the same link above download the dataset.
-
-  I found out that, I was not able to compile pytorch transfer learning tutorial code on my machine. There were many bugs in the                         code, even there was no proper type casting into integer for array indexes. 
-
-
+  <br />
+  I found out that, I was not able to compile pytorch transfer learning tutorial code on my machine. There were many bugs in the code or I guess, somethings have become deprecated.
+  <br />
 # So, I have fixed it and it's now running perfectly on my Machine
   Operating System: Ubuntu 16.04 LTS <br />
   NVIDIA: 1050Ti <br />
