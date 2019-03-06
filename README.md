@@ -1,4 +1,4 @@
-# pytroch_transfer_learning
+# pytroch_transfer_learning FIXED
   Pytorch Transfer Learning Tutorial (ResNet18)
   
 # Bugs fixed in TRANSFER-LEARNING TUTORIAL on Pytorch Website.
